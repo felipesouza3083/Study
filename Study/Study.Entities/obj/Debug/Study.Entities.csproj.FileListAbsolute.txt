@@ -1,0 +1,6 @@
+C:\Users\felipe.souza\source\repos\Study\Study.Entities\bin\Debug\Study.Entities.dll
+C:\Users\felipe.souza\source\repos\Study\Study.Entities\bin\Debug\Study.Entities.pdb
+C:\Users\felipe.souza\source\repos\Study\Study.Entities\obj\Debug\Study.Entities.csprojAssemblyReference.cache
+C:\Users\felipe.souza\source\repos\Study\Study.Entities\obj\Debug\Study.Entities.csproj.CoreCompileInputs.cache
+C:\Users\felipe.souza\source\repos\Study\Study.Entities\obj\Debug\Study.Entities.dll
+C:\Users\felipe.souza\source\repos\Study\Study.Entities\obj\Debug\Study.Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\Study.Repository.dll.config
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\Study.Repository.dll
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\Study.Repository.pdb
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\EntityFramework.dll
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\Study.Entities.dll
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\Study.Entities.pdb
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\EntityFramework.xml
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.csprojAssemblyReference.cache
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.csproj.CoreCompileInputs.cache
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.csproj.CopyComplete
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.dll
+C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.pdb

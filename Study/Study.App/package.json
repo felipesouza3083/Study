@@ -1,0 +1,25 @@
+{
+  "name": "reactaula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-class": "^15.6.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-react": "^6.24.1",
+    "create-react-class": "^15.6.0",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server --host 0.0.0.0 --port 81"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

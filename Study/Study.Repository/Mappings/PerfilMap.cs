@@ -12,16 +12,16 @@ namespace Study.Repository.Mappings
     {
         public PerfilMap()
         {
-            ToTable("TB_PERFIL");
+            ToTable("Perfil");
 
             HasKey(p => p.IdPerfil);
 
             Property(p => p.IdPerfil)
-                .HasColumnName("ID_PERFIL")
+                .HasColumnName("IdPerfil")
                 .IsRequired();
 
             Property(p => p.Nome)
-                .HasColumnName("DC_PERFIL")
+                .HasColumnName("Nome")
                 .HasMaxLength(50)
                 .IsRequired();
         }

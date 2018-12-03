@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace Study.Repository.Repositories
 {
@@ -15,7 +16,9 @@ namespace Study.Repository.Repositories
         {
             using (DataContext d = new DataContext())
             {
-                return d.Usuario.FirstOrDefault(u => u.Login.Equals(login)
+                return d.Usuario
+                        //.Include(u => u.Perfil)
+                        .FirstOrDefault(u => u.Login.Equals(login)
                                                   && u.Senha.Equals(senha));
             }
         }

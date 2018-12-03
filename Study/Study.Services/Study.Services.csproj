@@ -339,6 +339,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Produto\ProdutoAtualizaViewModel.cs" />
     <Compile Include="Models\Produto\ProdutoCadastroViewModel.cs" />
     <Compile Include="Models\Produto\ProdutoConsultaViewModel.cs" />
     <Compile Include="Models\Usuario\UsuarioAlteraSenhaViewModel.cs" />

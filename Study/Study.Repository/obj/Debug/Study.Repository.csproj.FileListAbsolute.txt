@@ -12,3 +12,17 @@ C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Reposi
 C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.csproj.CopyComplete
 C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.dll
 C:\Users\felipe.souza\source\repos\Study\Study.Repository\obj\Debug\Study.Repository.pdb
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\Study.Repository.dll.config
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\Study.Repository.dll
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\Study.Repository.pdb
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\EntityFramework.dll
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\Study.Entities.dll
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\Study.Entities.pdb
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\EntityFramework.xml
+C:\Git_Projects\Study\Study\Study.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git_Projects\Study\Study\Study.Repository\obj\Debug\Study.Repository.csprojAssemblyReference.cache
+C:\Git_Projects\Study\Study\Study.Repository\obj\Debug\Study.Repository.csproj.CoreCompileInputs.cache
+C:\Git_Projects\Study\Study\Study.Repository\obj\Debug\Study.Repository.csproj.CopyComplete
+C:\Git_Projects\Study\Study\Study.Repository\obj\Debug\Study.Repository.dll
+C:\Git_Projects\Study\Study\Study.Repository\obj\Debug\Study.Repository.pdb

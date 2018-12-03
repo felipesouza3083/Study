@@ -14,34 +14,35 @@ namespace Study.Repository.Mappings
     {
         public UsuarioMap()
         {
-            ToTable("TB_USUARIO");
+            ToTable("Usuario");
 
             HasKey(u => u.IdUsuario);
 
             Property(u => u.IdUsuario)
-                .HasColumnName("ID_USUARIO")
+                .HasColumnName("IdUsuario")
                 .IsRequired();
 
             Property(u => u.Nome)
-                .HasColumnName("NM_USUARIO")
+                .HasColumnName("Nome")
                 .HasMaxLength(150)
                 .IsRequired();
 
             Property(u => u.Login)
-                .HasColumnName("LOGIN_USUARIO")
+                .HasColumnName("Login")
                 .HasMaxLength(150)
                 .IsRequired()
                 .HasColumnAnnotation(IndexAnnotation.AnnotationName, new IndexAnnotation(new IndexAttribute("ix_Login") { IsUnique = true}));
 
             Property(u => u.Senha)
-                .HasColumnName("DC_SENHA")
+                .HasColumnName("Senha")
+                .IsRequired();
+
+            Property(u => u.IdPerfil)
+                .HasColumnName("IdPerfil")
                 .IsRequired();
 
 
-            HasRequired(u => u.Perfil)
-            .WithMany(p => p.Usuarios)
-            .HasForeignKey(u => u.IdPerfil)
-            .WillCascadeOnDelete(false);
+            HasRequired(u => u.Perfil).WithMany(p => p.Usuarios).HasForeignKey(u => u.IdPerfil).WillCascadeOnDelete(false);
                 
         }
     }

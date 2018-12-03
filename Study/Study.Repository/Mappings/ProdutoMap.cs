@@ -12,25 +12,25 @@ namespace Study.Repository.Mappings
     {
         public ProdutoMap()
         {
-            ToTable("TB_PRODUTO");
+            ToTable("Produto");
 
             HasKey(p => p.IdProduto);
 
             Property(p => p.IdProduto)
-                .HasColumnName("ID_PRODUTO")
+                .HasColumnName("IdProduto")
                 .IsRequired();
 
             Property(p => p.Nome)
-                .HasColumnName("NM_PRODUTO")
+                .HasColumnName("Nome")
                 .HasMaxLength(150)
                 .IsRequired();
 
             Property(p => p.Quantidade)
-                .HasColumnName("QTD_PRODUTO")
+                .HasColumnName("Quantidade")
                 .IsRequired();
 
             Property(p => p.Preco)
-                .HasColumnName("PRECO_PRODUTO")
+                .HasColumnName("Preco")
                 .IsRequired();
         }
     }
